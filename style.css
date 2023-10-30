@@ -361,6 +361,9 @@ hr{
 }
 /*media menu*/
 @media (max-width:800px){
+    .container .row .col-2{
+        padding-left: 22px;
+    }
     .cart{
         display: none;
     }
