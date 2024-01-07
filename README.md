@@ -19,48 +19,26 @@ Account Page: Create an account, log in securely, and manage your personal infor
 - CSS
 - JavaScript
 
-## Folder Structure
-├── index.html
-|
-├── styles.css
-|
-├── images/
-│ ├── image1.jpg
-│ ├── image2.jpg
-│ ├── image3.jpg
-│ └── image4.jpg
-|
-├── favicon_io/
-│ ├── favicon1.ico
-│ ├── fav.jpg
-│ ├── image6.jpg
-│ └── image7.jpg
-|
-└── README.md
-
 
 ## Screenshots
 
 1)Screenshot of the Home Page
 
-![Alt text](image.png)
+![Screenshot 2024-01-06 233245](https://github.com/GAURAV8520/eflipkart/assets/136880099/56d53159-8a12-4669-a8e2-6c915e5b1ad0)
 
 2)Screenshot of the Product Details Page
 
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
+![Screenshot 2024-01-06 233340](https://github.com/GAURAV8520/eflipkart/assets/136880099/c0f7159a-9d4d-432a-875d-ad05a19e4205)
+![Screenshot 2024-01-06 233412](https://github.com/GAURAV8520/eflipkart/assets/136880099/7e5796c5-54e5-425b-87a8-9bfe967f34a9)
 
 3)Screenshot of Discout offer page
 
-![Alt text](image-3.png)
-
+![Screenshot 2024-01-06 233454](https://github.com/GAURAV8520/eflipkart/assets/136880099/34ee36da-be2d-44c5-aacd-9a41e5fc428d)
 
 4)Screenshot of About us page
 
-![Alt text](image-4.png)
+![Screenshot 2024-01-06 233703](https://github.com/GAURAV8520/eflipkart/assets/136880099/f0fd90f0-049d-42ea-9aa0-60cbc91b81c5)
 
 5)Screenshot of footer page
 
-![Alt text](image-5.png)
-
+![Screenshot 2024-01-06 233754](https://github.com/GAURAV8520/eflipkart/assets/136880099/f75bc5c1-2329-4591-b51a-d5e979811830)
