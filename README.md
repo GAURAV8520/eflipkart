@@ -13,6 +13,7 @@ Contact Page: Reach out to us using the contact form. Your feedback is valuable,
 
 Account Page: Create an account, log in securely, and manage your personal information.
 
+Footer page 
 ## Technologies Used
 
 - HTML
